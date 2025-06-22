@@ -1,4 +1,4 @@
-import { itQuiz } from "./data.js";
+import { itQuiz } from "/src/data.js";
 
 const questionElement = document.getElementById("questions");
 const answersElement = document.getElementById("answerBtns");
